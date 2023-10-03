@@ -9,6 +9,6 @@
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/status-deploy%20poc-brightgreen">
+<img src="https://img.shields.io/badge/status-funcional%20poc-brightgreen">
 <img src="https://img.shields.io/badge/Python-3.9-blueviolet"/>
 </p>
