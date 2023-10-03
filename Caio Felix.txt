@@ -1,5 +1,6 @@
 Nome: Caio Felix
-NÃºmero de repositÃ³rios publicos: 10
-NÃºmero de seguidores: 2
-NÃºmero de usuÃ¡rios seguidos: 7
-Lista de RepositÃ³rios: ['docker', 'docusaurus', 'game_bioa', 'GlicoCare', 'live-de-python', 'neon', 'PROJETO-GRAFOS', 'py-enumerable', 'pyautogui', 'transformers']
+Perfil: https://github.com/FlexIV07
+Número de repositórios publicos: 11
+Número de seguidores: 2
+Número de usuários seguidos: 7
+Lista de Repositórios: ['Desafio-Api-GIt', 'docker', 'docusaurus', 'game_bioa', 'GlicoCare', 'live-de-python', 'neon', 'PROJETO-GRAFOS', 'py-enumerable', 'pyautogui', 'transformers']
