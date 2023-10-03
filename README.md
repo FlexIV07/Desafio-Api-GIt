@@ -32,5 +32,7 @@
         *❌ insira "sair" no terminal para encerrar a execução da aplicação.
 
 👨‍🔬 Testes:
-    Os testes foram arquitedaos utilizando o framewrok pytest
+    Os testes foram arquitedaos utilizando o framewrok pytest, desta forma deverão ser executados pelo o comando:
+
+        *🐍 py.test .\tests.py -vv
 
