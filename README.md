@@ -14,6 +14,7 @@
 </p>
 
 📓 Desafio de consumo da api do GitHub
+
     Tem como funcionalidade gerar um relatório com as seguintes informações do usuário:
     
         *👤Nome
