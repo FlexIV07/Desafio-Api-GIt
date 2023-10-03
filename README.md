@@ -29,7 +29,7 @@
     O funcionamento se dá através da seguinte forma:
         
         *🐍 execute o arquivo python run.py;
-        *👤 insira o nome do usário para pesquisa no terminal;
+        *👤 insira o nome do usuário para pesquisa no terminal;
         *🗞️ o relatório será gerado no diretório dos arquivos da aplicação;
         *❌ insira "sair" no terminal para encerrar a execução da aplicação.
 
