@@ -25,6 +25,7 @@
         *📂 lista de repositórios
 
 🖥️ Funcionamento:
+
     O funcionamento se dá através da seguinte forma:
         
         *🐍 execute o arquivo python run.py;
@@ -33,7 +34,8 @@
         *❌ insira "sair" no terminal para encerrar a execução da aplicação.
 
 👨‍🔬 Testes:
-    Os testes foram arquitedaos utilizando o framewrok pytest, desta forma deverão ser executados pelo o comando:
+
+    Os testes foram arquitetados utilizando o framework pytest, desta forma deverão ser executados pelo comando:
 
         *🐍 py.test .\tests.py -vv
 
