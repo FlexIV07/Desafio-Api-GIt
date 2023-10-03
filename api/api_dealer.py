@@ -23,7 +23,7 @@ class ApiDealer:
 
         
 
-    def search_user_repos(self) -> dict:
+    def search_user_repos(self) -> list:
 
         repos_endpoint = self.__api_end_point+self.__username+'/repos'
         

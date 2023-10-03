@@ -15,5 +15,22 @@
 
 📓 Desafio de consumo da api do GitHub
     Tem como funcionalidade gerar um relatório com as seguintes informações do usuário:
+    
         *👤Nome
-        * 
+        *💻 Perfil no GitHub
+        *📂 Número de diretórios públicos
+        *📊 Número de seguidores
+        *📊 Número de usuários seguidos
+        *📂 lista de repositórios
+
+🖥️ Funcionamento:
+    O funcionamento se dá através da seguinte forma:
+        
+        *🐍 execute o arquivo python run.py;
+        *👤 insira o nome do usário para pesquisa no terminal;
+        *🗞️ o relatório será gerado no diretório dos arquivos da aplicação;
+        *❌ insira "sair" no terminal para encerrar a execução da aplicação.
+
+👨‍🔬 Testes:
+    Os testes foram arquitedaos utilizando o framewrok pytest
+
