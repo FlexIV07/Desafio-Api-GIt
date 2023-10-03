@@ -12,3 +12,8 @@
 <img src="https://img.shields.io/badge/status-funcional-brightgreen">
 <img src="https://img.shields.io/badge/Python-3.9-blueviolet"/>
 </p>
+
+📓 Desafio de consumo da api do GitHub
+    Tem como funcionalidade gerar um relatório com as seguintes informações do usuário:
+        *👤Nome
+        * 
